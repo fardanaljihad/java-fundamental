@@ -10,7 +10,7 @@ public class MainAssociation {
     public static void main(String[] args) {
         // Attributes
         Mahasiswa Mhs1 = new Mahasiswa();
-        Mhs1.setNamaMahasiswa("Mahasiswa 1");
+        Mhs1.setNamaMahasiswa("Fardan");
         
         MataKuliah MK1 = new MataKuliah();
         MK1.setNamaMataKuliah("Teknik Pemrograman");
